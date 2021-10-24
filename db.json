@@ -1,0 +1,39 @@
+{
+  "description": [
+    {
+      "auteur": "531114033210720277",
+      "description": "je suis noir"
+    },
+    {
+      "auteur": "386606832593928216",
+      "description": "je suis le plus beau"
+    }
+  ],
+  "credits": [
+    {
+      "auteur": "531114033210720277",
+      "credits": 2500
+    }
+  ],
+  "note": [
+    {
+      "auteur": "386606832593928216",
+      "notes": "je suis le plus beau"
+    }
+  ],
+  "age": [
+    {
+      "auteur": "531114033210720277",
+      "age": "17"
+    },
+    {
+      "auteur": "741273690251198534",
+      "age": "19"
+    },
+    {
+      "auteur": "386606832593928216",
+      "age": "17"
+    }
+  ],
+  "desc": []
+}
